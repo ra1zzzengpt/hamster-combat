@@ -4,4 +4,4 @@ version = "0.0.1"
 edition = "2024"
 
 [dependencies]
-iced = { version = "0.13", features = ["image"] }
+gtk4 = "0.11.5"
